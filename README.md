@@ -1,4 +1,4 @@
-# 🧠 Information Retrieval and Analysis Tool
+#Information Retrieval and Analysis Tool
 
 ### Team Members
 - Khushi Patel  
