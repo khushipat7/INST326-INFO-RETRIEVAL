@@ -8,7 +8,7 @@ class Report:
     insights such as genre frequency, most common actors,
     and overall statistics.
 
-    Example:
+    Example: 
         report = Report(collection)
         print(report.generate_summary())
     """
