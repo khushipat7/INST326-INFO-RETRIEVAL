@@ -7,7 +7,7 @@ class MovieCollection:
 
     Attributes:
         movies (list): A list of Movie objects stored in the collection.
-    """
+    """ 
 
     def __init__(self):
         """Initialize an empty movie collection."""
