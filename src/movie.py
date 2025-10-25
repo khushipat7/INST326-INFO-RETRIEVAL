@@ -6,7 +6,7 @@ class Movie:
         title (str): The movie title.
         genre (str): The genre of the movie.
         actors (list): A list of actors in the movie.
-
+ 
     Example:
         >>> m = Movie("Iron Man", "Action", ["Robert Downey Jr.", "Gwyneth Paltrow"])
         >>> print(m)
