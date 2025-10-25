@@ -3,7 +3,7 @@ from actor import Actor
 from movie_collection import MovieCollection
 
 class MovieManagerApp:
-    """
+    """ 
     Main application class for managing a movie collection.
 
     This class provides a high-level interface for adding, searching,
