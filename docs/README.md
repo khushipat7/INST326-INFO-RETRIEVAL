@@ -28,4 +28,3 @@ We will:
 - Benjamin Podiyan  
 - Dritesh Advani  
 - Muhammad Wasay  
-- Hani Raza
